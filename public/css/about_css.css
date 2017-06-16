@@ -1,0 +1,23 @@
+.header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.body{
+    background-color:#F9A073;
+}
+
+body{
+    background:url(https://t3.ftcdn.net/jpg/00/96/51/74/240_F_96517407_L7uJrR5xOIxHuJ7IQsfLkOFCbwkryefA.jpg);
+    background-size: cover;
+}
+
+
+/*img #kwk {*/
+/*    width:absolute;*/
+/*    height: 10px;*/
+/*}*/

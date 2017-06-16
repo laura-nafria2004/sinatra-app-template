@@ -1,0 +1,49 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+submit{
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+/*checkbox{*/
+    
+/*}*/
+
+body{
+    background-image: url("http://www.freebiesgallery.com/wp-content/uploads/2014/02/blurred-background-8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.box{
+    background-color: #FCFBE3;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+
+p{
+    margin-top: -100px;
+}
+
+.button {
+    background-color: #e8b871;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+}
